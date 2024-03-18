@@ -7,7 +7,11 @@ Task Management Dashboard in MERN Stack for college project
 ## :bookmark_tabs:Table of contents
 * [Team info](#Team-info)
 * [Project info](#Project-info)
+* [Tools and Technologies](#Tools-and-Technologies)
+* [Dependencies](#Dependencies)
+* [Dev-dependencies](#Dev-dependencies)
 * [Setup](#setup)
+* [Installation](#Installation)
 
 ## :scroll: Team info
 
@@ -28,7 +32,7 @@ The Task Management Dashboard is a project aimed at creating a user-friendly int
 - View tasks
 - Update tasks
 - Delete tasks 
-allowing users to efficiently manage their workload
+* allowing users to efficiently manage their workload
 
 <!-- <div align= "center"><img src="Assets\file_2024-03-15_04.10.43.png" /></div> -->
 
@@ -72,7 +76,7 @@ Following are the major dev-dependencies of the project:
 
 ## Setup
 
-#### Clone the repo
+Clone the repo
 ```
 $ git clone https://github.com/aadeshpalpal/Task-Management-Dashboard-MERN-.git
 ```
